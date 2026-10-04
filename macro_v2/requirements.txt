@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+pyarrow>=14
+pyyaml>=6
+fredapi>=0.5.1
+yfinance>=0.2.40
+boto3>=1.28
+python-dotenv>=1.0
